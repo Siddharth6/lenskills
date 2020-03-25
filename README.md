@@ -9,6 +9,8 @@ LenSkills works of field of development and education and as well as in field of
 <h3>LICENSE</h3>
 <p>  GNU GENERAL PUBLIC LICENSE V-3</p>
 <hr/>
+<h5>Copyright All rights reserved 2024 </h5>
+<p> SIDDHARTH</p>
 <h4> demo </h4>
 
 https://lenskills.netlify.com/
