@@ -5,6 +5,10 @@
 LenSkills works of field of development and education and as well as in field of reserch.Lenskills works on different latest technology for product development.</p> 
 
 <hr>
+
+<h3>LICENSE</h3>
+<p>  GNU GENERAL PUBLIC LICENSE V-3</p>
+<hr/>
 <h4> demo </h4>
 
 https://lenskills.netlify.com/
