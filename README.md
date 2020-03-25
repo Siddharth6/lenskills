@@ -1,4 +1,4 @@
-# lenskills
+# Lenskills
 
 
 <p>LenSkills is a community to aware and make people intrested in the field of technology and education.A well recognized and registered organisation with a mission of spreading knowledge on different technology like AI ,IOT and DATA SCIENCE , To improve the skills and knowledge of student for the better future.<br/>
